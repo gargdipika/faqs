@@ -1,0 +1,22 @@
+/* Write your code here. */
+.background_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  padding: 30px;
+}
+.main_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+}
+.heading-faq {
+  color: #cb8805;
+}
